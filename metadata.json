@@ -1,0 +1,5 @@
+{
+  "name": "TianjinIFS Event Management",
+  "description": "A dedicated support system for Ingress First Saturday events in Tianjin, featuring TOTP login, agent tracking, inventory exchange matchmaking, and prize draws.",
+  "requestFramePermissions": []
+}
